@@ -1,0 +1,8 @@
+.App {
+  background-color: #212121;
+  color: #ececec;
+  font-size: 2rem;
+  height: 100vh;
+  padding: 1.8rem;
+  overflow-y: scroll;
+}

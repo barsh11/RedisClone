@@ -1,0 +1,10 @@
+.CommandsHistory{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.responseLine{
+    margin-bottom: 2rem;
+    white-space: pre-wrap;
+}

@@ -1,0 +1,18 @@
+.commandLine{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.userInput{
+    margin-left: 2rem;
+    flex-grow: 1;
+    background-color: inherit;
+    color: inherit;
+    font-size: inherit;
+    border: none;
+    font-family: inherit;
+}
+
+.userInput:focus{
+    outline: none;
+}
